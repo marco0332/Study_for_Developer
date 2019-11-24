@@ -28,7 +28,7 @@ Java 프로그램은 한 개 혹은 그 이상의 클래스들의 조합으로 �
 
   이 곳에서 파일에 있는 것을 읽어서 메모리 영역에 Write하는 것을 Loading이라고 한다.
 
-  참고 _ <a href=" https://whereisusb.tistory.com/10 ">프로세스의 주소공간</a>
+  참고 _ <a href="https://whereisusb.tistory.com/10">프로세스의 주소공간</a>
 
 - **Heap & Stack**
 
@@ -38,7 +38,7 @@ Java 프로그램은 한 개 혹은 그 이상의 클래스들의 조합으로 �
 
   이 영역도 유일한 공간으로 여러 쓰레드가 공유한다.
   
-  참고 _ <a href=" https://yaboong.github.io/java/2018/05/26/java-memory-management/ ">Java에서 Stack과 Heap</a>
+  참고 _ <a href="https://yaboong.github.io/java/2018/05/26/java-memory-management/">Java에서 Stack과 Heap</a>
 
 ### Dynamic Loading
 
