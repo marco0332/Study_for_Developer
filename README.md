@@ -24,7 +24,7 @@
 
 <br/>
 
-### :phone call: Algorithm [:top:](#top)
+### ​:hourglass_flowing_sand:​ Algorithm [:top:](#top)
 
 <br/>
 
