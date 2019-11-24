@@ -11,7 +11,9 @@
 
 </div>
 
-### :two_men_holding_hands: **created by** [![marco0332](https://avatars2.githubusercontent.com/u/27988544?s=460&v=4)](https://github.com/marco0332)
+### :two_men_holding_hands: **created by**
+
+[![marco0332](https://avatars2.githubusercontent.com/u/27988544?s=460&v=4)](https://github.com/marco0332)
 
 <br/>
 
