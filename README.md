@@ -20,11 +20,11 @@
 ---
 
 ## Part 1. Basics of Computer Science
-### :crane: Data Structure [:top:](#top)
+### ​:building_construction:​ Data Structure [:top:](#top)
 
 <br/>
 
-### :phone: Algorithm [:top:](#top)
+### :phone call: Algorithm [:top:](#top)
 
 <br/>
 
@@ -36,7 +36,7 @@
 
 <br/>
 
-### :dist: DB [:top:](#top)
+### :floppy_disk: DB [:top:](#top)
 
 <br/>
 
@@ -47,11 +47,11 @@
 
 <br/>
 
-### :notepad: Javascript [:top:](#top)
+### ​:spiral_notepad:​ Javascript [:top:](#top)
 
 <br/>
 
-### :juggling: Python [:top:](#top)
+### ​:man_juggling:​ Python [:top:](#top)
 
 <br/>
 
