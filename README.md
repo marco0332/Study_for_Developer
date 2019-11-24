@@ -24,7 +24,7 @@
 
 <br/>
 
-### :phone call: Algorithm [:top:](#top)
+### :phone: Algorithm [:top:](#top)
 
 <br/>
 
@@ -36,7 +36,7 @@
 
 <br/>
 
-### :floppy dist: DB [:top:](#top)
+### :dist: DB [:top:](#top)
 
 <br/>
 
@@ -47,11 +47,11 @@
 
 <br/>
 
-### :sprial notepad: Javascript [:top:](#top)
+### :notepad: Javascript [:top:](#top)
 
 <br/>
 
-### :man juggling: Python [:top:](#top)
+### :juggling: Python [:top:](#top)
 
 <br/>
 
