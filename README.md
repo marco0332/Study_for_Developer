@@ -18,7 +18,7 @@
 
 <br/>
 
----
+
 
 ## Part 1. Basics of Computer Science
 ### ​:building_construction:​ Data Structure [:top:](#top)
@@ -41,7 +41,7 @@
 
 <br/>
 
----
+
 
 ## Part 2. Language
 ### :coffee: JAVA [:top:](#top)
@@ -56,7 +56,7 @@
 
 <br/>
 
----
+
 
 ## Part 3. Parts of Development
 ### :gem: Front-end [:top:](#top)
