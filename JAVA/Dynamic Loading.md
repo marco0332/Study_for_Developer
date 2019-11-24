@@ -52,7 +52,7 @@ Java 프로그램은 한 개 혹은 그 이상의 클래스들의 조합으로 �
 - 단점
   1. 실행 시 연결된 부분에 대한 판단을 해야하므로 속도 측면에서는 불리하다.
 
-Dynamic Loading의 종류로는 **로드 타임 동적 로딩(load-time dynamic loading)**과 **런타임 동적 로딩(run-time dynamic loading)**이 있다.
+Dynamic Loading의 종류로는 **로드 타임 동적 로딩(load-time dynamic loading)** 과 **런타임 동적 로딩(run-time dynamic loading)** 이 있다.
 
 #### 1. 로드타임 동적 로딩
 
