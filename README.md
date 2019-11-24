@@ -45,9 +45,9 @@
 
 ## Part 2. Language
 ### :coffee: JAVA [:top:](#top)
-- [객체지향 4가지 특징에 대해](https://github.com/marco0332/Study_for_Developer/JAVA/객체지향 4가지 특징에 대해.md)
-- [Dynamic Loading](https://github.com/marco0332/Study_for_Developer/JAVA/Dynamic Loading.md)
-- [Garbage Collection](https://github.com/marco0332/Study_for_Developer/JAVA/Garbage Collection.md)
+- [객체지향 4가지 특징에 대해](https://github.com/marco0332/Study_for_Developer/blob/master/JAVA/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%204%EA%B0%80%EC%A7%80%20%ED%8A%B9%EC%A7%95%EC%97%90%20%EB%8C%80%ED%95%B4.md)
+- [Dynamic Loading](https://github.com/marco0332/Study_for_Developer/blob/master/JAVA/Dynamic%20Loading.md)
+- [Garbage Collection](https://github.com/marco0332/Study_for_Developer/blob/master/JAVA/Garbage%20Collection.md)
 
 <br/>
 
