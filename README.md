@@ -1,10 +1,8 @@
-﻿# Study for Developer
-##### :star: 이 저장소는 PR 과 start 를 먹고 자랍니다. 하하.
-
-<a id="top"></a>
+﻿<a id="top"></a>
 
 :book: Study for Developer
 ===
+##### :star: 이 저장소는 PR 과 start 를 먹고 자랍니다. 하하.
 <div align=center>
 
 [![author](https://img.shields.io/badge/author-jbee-ff69b4.svg?style=flat-square)](https://marco0332.github.io)
@@ -12,8 +10,8 @@
 [![HitCount](http://hits.dwyl.io/JaeYeopHan/Interview_Question_for_Beginner.svg)](http://hits.dwyl.io/marco0332/Study_for_Developer)
 
 </div>
-### :two_men_holding_hands: **created by**
-[![marco0332](https://avatars2.githubusercontent.com/u/27988544?s=460&v=4)](https://github.com/marco0332)
+
+### :two_men_holding_hands: **created by** [![marco0332](https://avatars2.githubusercontent.com/u/27988544?s=460&v=4)](https://github.com/marco0332)
 
 <br/>
 
