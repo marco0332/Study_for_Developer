@@ -1,5 +1,8 @@
 ﻿<a id="top"></a>
 
+:book: Study for Developer
+===
+
 <div align=center>
 
 [![author](https://img.shields.io/badge/author-marco0332-ff69b4.svg?style=flat-square)](https://marco0332.github.io)
@@ -10,9 +13,6 @@
 
 ### :two_men_holding_hands: **created by**
 <a href="https://github.com/marco0332"><img src="https://avatars2.githubusercontent.com/u/27988544?s=460&v=4" width="100" height="100" /></a>
-
-:book: Study for Developer
-===
 
 ##### :star: 이 저장소는 PR 과 start 를 먹고 자랍니다. 하하.
 
