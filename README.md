@@ -38,8 +38,7 @@
 <br/>
 
 ### :bulb: OS [:top:](#top)
-- [01. Introduction to Operating System.md](https://github.com/marco0332/Study_for_Developer/blob/master/OS/01.%20Introduction%20to%20Operating%20System.md)
-
+- [01. Introduction to Operating System](https://github.com/marco0332/Study_for_Developer/blob/master/OS/01.%20Introduction%20to%20Operating%20System.md)
 <br/>
 
 ### :floppy_disk: DB [:top:](#top)
