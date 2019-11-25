@@ -6,13 +6,15 @@
 <div align=center>
 
 [![author](https://img.shields.io/badge/author-marco0332-ff69b4.svg?style=flat-square)](https://marco0332.github.io)
-[![CONTRIBUTORS](https://img.shields.io/badge/contributors-1-green.svg?style=flat-square)](https://github.com/marco0332/Study_for_Developer/graphs/contributors)
+[![CONTRIBUTORS](https://img.shields.io/badge/contributors-3-green.svg?style=flat-square)](https://github.com/marco0332/Study_for_Developer/graphs/contributors)
 [![HitCount](http://hits.dwyl.io/marco0332/Study_for_Developer.svg)](http://hits.dwyl.io/marco0332/Study_for_Developer)
 
 </div>
 
 ### :two_men_holding_hands: **created by**
 <a href="https://github.com/marco0332"><img src="https://avatars2.githubusercontent.com/u/27988544?s=460&v=4" width="100" height="100" /></a>
+<a href="https://github.com/mkl0819"><img src="https://avatars3.githubusercontent.com/u/46305698?s=460&v=4" width="100" height="100" /></a>
+<a href="https://github.com/JHI93"><img src="https://avatars0.githubusercontent.com/u/31469550?s=460&v=4" width="100" height="100" /></a>
 
 ##### :star: 이 저장소는 PR 과 start 를 먹고 자랍니다. 하하.
 
@@ -30,12 +32,13 @@
 <br/>
 
 ### :postbox: Network [:top:](#top)
-- [TCP/IP 기초](https://github.com/marco0332/Study_for_Developer/)
-- [TCP/IP 통신구조](https://github.com/marco0332/Study_for_Developer/)
+- [TCP/IP 기초](https://github.com/marco0332/Study_for_Developer/blob/master/Network/TCP-IP%EA%B8%B0%EC%B4%88.md)
+- [TCP/IP 통신구조](https://github.com/marco0332/Study_for_Developer/blob/master/Network/TCP-IP%ED%86%B5%EC%8B%A0%EA%B5%AC%EC%A1%B0.md)
 
 <br/>
 
 ### :bulb: OS [:top:](#top)
+- [01. Introduction to Operating System.md](https://github.com/marco0332/Study_for_Developer/blob/master/OS/01.%20Introduction%20to%20Operating%20System.md)
 
 <br/>
 
