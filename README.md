@@ -40,6 +40,7 @@
 ### :bulb: OS [:top:](#top)
 - [01. Introduction to Operating System](https://github.com/marco0332/Study_for_Developer/blob/master/OS/01.%20Introduction%20to%20Operating%20System.md)
 - [02. System Structure & Program Execution-1](https://github.com/marco0332/Study_for_Developer/blob/master/OS/02.%20System%20Structure%20&%20Program%20Execution-1.md)
+- [02. System Structure & Program Execution-2](https://github.com/marco0332/Study_for_Developer/blob/master/OS/02.%20System%20Structure%20&%20Program%20Execution-2.md)
 <br/>
 
 ### :floppy_disk: DB [:top:](#top)
