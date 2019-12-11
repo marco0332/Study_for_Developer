@@ -64,9 +64,10 @@ class TestClass {
 }
 ```
 
-> 실행 결과
+> **실행 결과**
 >
 > value: 10000, userId: 1
+>
 > value: 100000000, userId: 150
 
 ## 오버라이딩 (Overriding)
@@ -109,9 +110,10 @@ class Test {
 }
 ```
 
->실행 결과
+>**실행 결과**
 >
 >Parent Class
+>
 >Child Class
 
 

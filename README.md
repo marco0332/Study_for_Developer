@@ -23,11 +23,11 @@
 
 
 ## Part 1. Basics of Computer Science
-### ​:building_construction:​ Data Structure [:top:](#top)
+### :building_construction: Data Structure [:top:](#top)
 
 <br/>
 
-### ​:hourglass_flowing_sand:​ Algorithm [:top:](#top)
+### :hourglass_flowing_sand: Algorithm [:top:](#top)
 
 <br/>
 
@@ -55,14 +55,15 @@
 - [객체지향 4가지 특징에 대해](https://github.com/marco0332/Study_for_Developer/blob/master/JAVA/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%204%EA%B0%80%EC%A7%80%20%ED%8A%B9%EC%A7%95%EC%97%90%20%EB%8C%80%ED%95%B4.md)
 - [Dynamic Loading](https://github.com/marco0332/Study_for_Developer/blob/master/JAVA/Dynamic%20Loading.md)
 - [Garbage Collection](https://github.com/marco0332/Study_for_Developer/blob/master/JAVA/Garbage%20Collection.md)
+- [Overriding과 Overloading](https://github.com/marco0332/Study_for_Developer/blob/master/JAVA/Overloading%EA%B3%BC%20Overriding.md)
 
 <br/>
 
-### ​:spiral_notepad:​ Javascript [:top:](#top)
+### :spiral_notepad: Javascript [:top:](#top)
 
 <br/>
 
-### ​:man_juggling:​ Python [:top:](#top)
+### :man_juggling: Python [:top:](#top)
 
 <br/>
 
