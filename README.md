@@ -57,6 +57,7 @@
 - [Dynamic Loading](https://github.com/marco0332/Study_for_Developer/blob/master/JAVA/Dynamic%20Loading.md)
 - [Garbage Collection](https://github.com/marco0332/Study_for_Developer/blob/master/JAVA/Garbage%20Collection.md)
 - [Overriding과 Overloading](https://github.com/marco0332/Study_for_Developer/blob/master/JAVA/Overloading%EA%B3%BC%20Overriding.md)
+- [추상클래스와 인터페이스](https://github.com/marco0332/Study_for_Developer/blob/master/JAVA/%EC%B6%94%EC%83%81%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4.md)
 
 <br/>
 
