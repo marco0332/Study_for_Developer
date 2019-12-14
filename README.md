@@ -45,6 +45,7 @@
 - [03. Process-2 =(Thread)](https://github.com/marco0332/Study_for_Developer/blob/master/OS/03.%20Process-2%20(=Thread).md)
 - [04. Process Management](https://github.com/marco0332/Study_for_Developer/blob/master/OS/04.%20Process%20Management.md)
 - [05. CPU Scheduling-1](https://github.com/marco0332/Study_for_Developer/blob/master/OS/05.%20CPU%20Scheduling-1.md)
+- [05. CPU Scheduling-2](https://github.com/marco0332/Study_for_Developer/blob/master/OS/05.%20CPU%20Scheduling-2.md)
 <br/>
 
 ### :floppy_disk: DB [:top:](#top)
