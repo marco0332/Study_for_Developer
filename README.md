@@ -46,6 +46,10 @@
 - [04. Process Management](https://github.com/marco0332/Study_for_Developer/blob/master/OS/04.%20Process%20Management.md)
 - [05. CPU Scheduling-1](https://github.com/marco0332/Study_for_Developer/blob/master/OS/05.%20CPU%20Scheduling-1.md)
 - [05. CPU Scheduling-2](https://github.com/marco0332/Study_for_Developer/blob/master/OS/05.%20CPU%20Scheduling-2.md)
+- [06. Process Synchronization-1](https://github.com/marco0332/Study_for_Developer/blob/master/OS/06.%20Process%20Synchronization-1.md)
+- [06. Process Synchronization-2](https://github.com/marco0332/Study_for_Developer/blob/master/OS/06.%20Process%20Synchronization-2.md)
+- [06. Process Synchronization-3](https://github.com/marco0332/Study_for_Developer/blob/master/OS/06.%20Process%20Synchronization-3.md)
+- [06. Process Synchronization-4](https://github.com/marco0332/Study_for_Developer/blob/master/OS/06.%20Process%20Synchronization-4.md)
 <br/>
 
 ### :floppy_disk: DB [:top:](#top)
