@@ -1,4 +1,4 @@
-﻿<a id="top"></a>
+<a id="top"></a>
 
 :book: Study for Developer
 ===
@@ -69,6 +69,9 @@
 <br/>
 
 ### :spiral_notepad: Javascript [:top:](#top)
+
+- [Javascript 기본개념 정리](https://marco0332.github.io/categories/study/2020-01-06-Javascript-Core/)
+- [Javascript DOM & BOM](https://marco0332.github.io/categories/study/2020-01-21-DOM과-BOM/)
 
 <br/>
 
